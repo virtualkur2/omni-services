@@ -1,0 +1,25 @@
+{
+  "name": "omni-services",
+  "version": "0.0.1",
+  "description": "Services for the OmniSys platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/virtualkur2/omni-services.git"
+  },
+  "keywords": [
+    "services",
+    "omnisys",
+    "platform",
+    "frontend"
+  ],
+  "author": "Mauricio Contreras",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/virtualkur2/omni-services/issues"
+  },
+  "homepage": "https://github.com/virtualkur2/omni-services#readme"
+}
